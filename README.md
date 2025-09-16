@@ -29,9 +29,3 @@ A simple, fun, and human-friendly To-Do List app built with Python
     python todo_app.py
     pip install colorama
 2. Run the app
-=======
-## How to Run 💻
-1. Install dependencies:
-    python todo_app.py, 
-    pip install colorama
-2. Run the app
